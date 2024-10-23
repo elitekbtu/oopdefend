@@ -2,7 +2,7 @@ package  draft1;
 
 import java.io.Serializable;
 
-public abstract class Vehicle implements Serializable {
+public abstract class Vehicle {
     private String brand;
     private String model;
     private int year;
